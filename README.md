@@ -21,5 +21,5 @@
 
 <h3>Link Vercel</h3>
 <ul>
-  <li>https://ntft-card-azure.vercel.app/</li>
+  <li>🔗 https://ntft-card-azure.vercel.app/</li>
 </ul>
