@@ -8,7 +8,7 @@ body{
     display: table-column;
     border-radius: 15px;
     position: absolute;
-    height: 610px;
+    height: 580px;
     width: 340px;
     left: 40%;
     top: 19%;
@@ -50,15 +50,42 @@ body{
     font-weight: bold;
     font-size: 13px;
     margin-top: -9%;
-    margin-left: 60%;
+    margin-left: 67%;
 }
 
 .frase{
-    margin-top: -13%;
-    margin-left: 13%;
+    margin-top: -16%;
+    margin-left: 14%;
 }
 
 p{
     margin-top: -6%;
     margin-left: 5%;
+}
+
+.linha{
+    width: 290px;
+    height: 1px; 
+    background-color: #495D79;
+    margin-left: 7%;
+    margin-top: 6%;
+}
+
+.foto{
+    width: 45px;
+    height: 45px;
+    margin-left: 7%;
+    margin-top: 6%;
+}
+
+.frase2{
+    color: #495D79;
+    margin-top: -10%;
+    margin-left: 25%;
+}
+
+.frase3{
+    margin-top: -7%;
+    margin-left: 31%;
+    color: white;
 }
