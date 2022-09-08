@@ -1,5 +1,5 @@
 <h1 align="center">NTFT-CARD</h1>
-![t](https://user-images.githubusercontent.com/86062663/189161244-4b31dd61-ee59-4dec-8117-c74b077f12f4.png)
+<div><img src="https://user-images.githubusercontent.com/86062663/189162753-bc4e4205-e56a-440f-8573-8eb6d838a353.png"></div>
 
 
 <h3>❔ O que é o projeto</h3>
@@ -17,4 +17,9 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+</ul>
+
+<h3>Link Vercel</h3>
+<ul>
+  <li>https://ntft-card-azure.vercel.app/</li>
 </ul>
