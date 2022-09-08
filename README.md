@@ -1,4 +1,5 @@
-<h1 align="center">NTFT-CARD</h1> ![t](https://user-images.githubusercontent.com/86062663/189161244-4b31dd61-ee59-4dec-8117-c74b077f12f4.png)
+<h1 align="center">NTFT-CARD</h1>
+![t](https://user-images.githubusercontent.com/86062663/189161244-4b31dd61-ee59-4dec-8117-c74b077f12f4.png)
 
 
 <h3>❔ O que é o projeto</h3>
